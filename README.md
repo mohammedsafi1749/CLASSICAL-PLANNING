@@ -105,8 +105,9 @@ plan3 = find_plan(initial_state3, goal_state3, actions3)
 print("Example 3 Output:", plan3)
 ```
 ### OUTPUT
-<img width="925" height="126" alt="image" src="https://github.com/user-attachments/assets/b02d3ec7-cebd-429a-940f-b0971570c490" />
 
+
+<img width="895" height="119" alt="image" src="https://github.com/user-attachments/assets/dc394f91-c934-48b7-961d-5145a83d030f" />
 
 
 ### RESULT
